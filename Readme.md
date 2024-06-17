@@ -29,7 +29,7 @@ This web application allows users to create and join virtual rooms where they ca
 
 ``` bash
 git clone https://github.com/yourusername/Radio_Player.git
-cd music_room
+cd Radio_Player
 ```
 
 ### Backend Setup
