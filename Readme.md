@@ -35,6 +35,8 @@ cd Radio_Player
 ### Backend Setup
 #### Install dependencies:
 ```bash
+python -m virtualenv env
+.\env\Scripts\activate
 pip install -r requirements.txt
 ```
 
