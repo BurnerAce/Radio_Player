@@ -47,8 +47,9 @@ python manage.py migrate
 ```
 
 Start the Django development server:
+``` bash
 python manage.py runserver
-
+```
 
 ### Frontend Setup
 Note: The node_modules directory is included in the repository for convenience. However, it is recommended to follow the standard practice of using npm install to install dependencies.
